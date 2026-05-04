@@ -95,9 +95,9 @@ Alternative cost: consultant ~€3,200/yr · lawyer ~€800/yr · missed grant ~
 Built at **Google Nexus Hackathon 2026**.
 
 - [Stefan Branković](https://github.com/stefbrankovic) - system design, data pipeline, pitch presentation
-- [Dobrica Janković] (https://github.com/dobricaJankovic) - system design, data pipeline
-- [Ilija Trajković] (https://github.com/Trajko03) - system design, data pipeline
-- [Mihajlo Stevanović] (https://github.com/MihStev) - system design, data pipeline
+- [Dobrica Janković](https://github.com/dobricaJankovic) - system design, data pipeline
+- [Ilija Trajković](https://github.com/Trajko03) - system design, data pipeline
+- [Mihajlo Stevanović](https://github.com/MihStev) - system design, data pipeline
 
 ![Teamwork](assets/DSC_0166.JPG)
 
