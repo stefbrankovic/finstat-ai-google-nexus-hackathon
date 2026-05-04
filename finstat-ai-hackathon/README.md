@@ -1,101 +1,108 @@
-# FinStat AI — CFO u džepu za srpskog preduzetnika
+# FinStat AI — CFO in Your Pocket for Serbian Entrepreneurs
 
-> **Google Nexus Hackathon 2026** · AI/ML solutions for real-world impact  
+> **Google Nexus Hackathon 2026** · AI/ML Solutions for Real-World Impact  
 > Proof of Concept · April 2026
 
 ---
 
 ## Problem
 
-Vlasnici malih i srednjih preduzeća u Srbiji su istovremeno CEO, CFO i pravni tim — bez ERP sistema i bez tima koji se bavi finansijama, računovodstvom i praćenjem regulative.
+Small and medium business owners in Serbia are simultaneously CEO, CFO, and legal team — without ERP systems or dedicated staff to handle finances, accounting, and regulatory compliance.
 
-- **Finansijska magla** — stanje na računu vidljivo, ali cashflow, rizici i trendovi ostaju ispod radara
-- **Regulatorna džungla** — eFakture, PDV, Zakon o radu se menjaju; pravni savetnici su skupi
-- **Propuštene prilike** — milijarde dinara u grantovima i subvencijama prolaze nezapaženo
+- **Financial fog** — bank balance is visible, but cashflow, risks, and trends stay under the radar
+- **Regulatory jungle** — e-invoices, VAT, labor law keep changing; legal advisors are expensive
+- **Missed opportunities** — billions of dinars in grants and subsidies go unnoticed
 
-~120.000 MSP firmi u Srbiji: previše složene za Excel, premale za SAP.  
-**Niko ih ne opslužuje direktno.**
+~120,000 SMEs in Serbia: too complex for Excel, too small for SAP.  
+**No one is serving them directly.**
 
+
+![Teamwork](assets/DSC_0266.JPG)
 ---
 
-## Rešenje
+## Solution
 
-End-to-end platforma sa dva izlaza:
+An end-to-end platform with two outputs:
 
 ```
-ULAZI                    AI Engine                 IZLAZI
-─────────                ──────────                ──────
-Bankovni račun    ──→    Baza podataka     ──→    Dashboard
-eFakture          ──→    NLP analiza       ──→    AI Chatbot
-Pravna legislativa──→    Prognoza          
-                         Zakonska provjera 
+INPUTS                   AI Engine                 OUTPUTS
+──────                   ─────────                 ───────
+Bank account      →    Database          →    Dashboard
+e-Invoices        →    NLP analysis      →    AI Chatbot
+Legal legislation →    Forecasting
+                         Regulatory checks
 ```
 
 ### Dashboard
-- Kompletna finansijska analitika i vizuelizacija
-- Cashflow prognoza (90 dana) bazirana na ML
-- Upozorenja i saveti u realnom vremenu
+- Complete financial analytics and visualization
+- 90-day cashflow forecast powered by ML
+- Real-time alerts and recommendations
 
 ### AI Chatbot
-- Finansijski i pravni savetnik prilagođen srpskom tržištu
-- Kvartalni izveštaji na zahtev
-- Strategija i plan razvoja biznisa
+- Financial and legal advisor tailored to the Serbian market
+- Quarterly reports on demand
+- Business strategy and growth planning
 
 ---
 
-## Zašto sada? Zašto Srbija?
+## Why Now? Why Serbia?
 
 | | |
 |---|---|
-| **120.000** | MSP firmi — potencijalnih korisnika |
-| **2023.** | eFakture postale obavezne — podaci su već digitalni |
-| **0** | lokalnih AI rešenja koja prate domaću regulativu |
-| **Leto 2026.** | Najavljeno uvođenje eOtpremnica |
+| **120,000** | SMEs - potential users |
+| **2023** | e-Invoices became mandatory - data is already digital |
+| **0** | local AI solutions tracking domestic regulation |
+| **Summer 2026** | e-Delivery notes rollout announced |
 
-PSD2 direktiva otvara bankarske API-je. SEF sistem generiše strukturirane podatke koje niko ne iskorišćava u punoj meri. Nema domaćeg konkurenta koji razume JSON, SEF i srpske zakonske akte.
+PSD2 directive is opening up banking APIs. The SEF system generates structured data that nobody is fully utilizing. No domestic competitor understands JSON, SEF, and Serbian legal acts simultaneously.
+
+![Teamwork](assets/DSC_0270.JPG)
+---
+
+## Business Model (SaaS)
+
+| Plan | Price | Target |
+|------|-------|--------|
+| Starter | €29/mo | Early-stage entrepreneur |
+| **Pro** ⭐ | **€69/mo** | Companies with 5–50 employees |
+| Agency | €199/mo | Accountants & holding companies |
+
+Alternative cost: consultant ~€3,200/yr · lawyer ~€800/yr · missed grant ~€5,000+  
+→ Pro plan saves up to 60% of that value.
 
 ---
 
-## Biznis model (SaaS)
+## Roadmap
 
-| Plan | Cena | Za koga |
-|------|------|---------|
-| Starter | 29€/mes | Preduzetnik koji počinje |
-| **Pro** ⭐ | **69€/mes** | Firma 5–50 zaposlenih |
-| Agency | 199€/mes | Računovođe & holdinzi |
-
-Alternativni trošak: konsultant ~3.200€/god · advokat ~800€/god · propušteni grant ~5.000€+  
-→ Pro plan štedi i do 60% vrednosti.
+| Phase | Timeline | What |
+|-------|----------|------|
+| ✅ MVP | Hackathon → Q2 2026 | Bank API (JSON), e-Invoices (JSON), Dashboard, AI Chatbot |
+| Phase 2 | Q2–Q3 2026 | PDF legal acts, regulatory database, legal Q&A, alerts |
+| Phase 3 | Q4 2026 | SEF integration, emails, grants & subsidies tracker |
 
 ---
 
-## Fazni plan
+## Materials
 
-| Faza | Period | Šta |
-|------|--------|-----|
-| ✅ MVP | Hackathon → Q2 2026 | Banka (JSON), eFakture (JSON), Dashboard, AI Chatbot |
-| Faza 2 | Q2–Q3 2026 | PDF akti, zakonska baza, pravni Q&A, upozorenja |
-| Faza 3 | Q4 2026 | SEF integracija, mejlovi, konkursi i grantovi |
+- 📊 [`presentation/FinStat_AI_pitch.pptx`](presentation/FinStat_AI_pitch_git_vs.pptx) — pitch deck
+- 🎥 [`demo/FinStat_video.mp4`](demo/FinStat_video.mp4) — system demo
+- 🖼️ [`assets/`](assets/) — photos from the pitch defense
 
 ---
 
-## Materijali
+## Team
 
-- 📊 [`presentation/FinStat_AI_pitch.pdf`](presentation/FinStat_AI_pitch.pdf) — pitch deck
-- 🎥 [`demo/demo.mp4`](demo/demo.mp4) — video demonstracija sistema
-- 🖼️ [`assets/`](assets/) — slike sa odbrane
+Built at **Google Nexus Hackathon 2026**.
 
----
+- [Stefan Branković](https://github.com/stefbrankovic) - system design, data pipeline, pitch presentation
+- [Dobrica Janković] (https://github.com/dobricaJankovic) - system design, data pipeline
+- [Ilija Trajković] (https://github.com/Trajko03) - system design, data pipeline
+- [Mihajlo Stevanović] (https://github.com/MihStev) - system design, data pipeline
 
-## Tim
-
-Projekat razvijen u okviru **Google Nexus Hackathon 2026**.
-
-- [Stefan Branković](https://github.com/stefbrankovic) — system design, data pipeline, pitch prezentacija
-- *(dodaj kolege i njihove GitHub/LinkedIn profile)*
+![Teamwork](assets/DSC_0166.JPG)
 
 ---
 
-## Tech stack
+## Tech Stack
 
 `Python` · `REST APIs` · `JSON` · `NLP` · `ML (cashflow forecasting)` · `Dashboard`
