@@ -1,4 +1,4 @@
-# FinStat AI — CFO in Your Pocket for Serbian Entrepreneurs
+# FinStat AI - CFO in Your Pocket for Serbian Entrepreneurs
 
 > **Google Nexus Hackathon 2026** · AI/ML Solutions for Real-World Impact  
 > Proof of Concept · April 2026
@@ -7,11 +7,11 @@
 
 ## Problem
 
-Small and medium business owners in Serbia are simultaneously CEO, CFO, and legal team — without ERP systems or dedicated staff to handle finances, accounting, and regulatory compliance.
+Small and medium business owners in Serbia are simultaneously CEO, CFO, and legal team - without ERP systems or dedicated staff to handle finances, accounting, and regulatory compliance.
 
-- **Financial fog** — bank balance is visible, but cashflow, risks, and trends stay under the radar
-- **Regulatory jungle** — e-invoices, VAT, labor law keep changing; legal advisors are expensive
-- **Missed opportunities** — billions of dinars in grants and subsidies go unnoticed
+- **Financial fog** - bank balance is visible, but cashflow, risks, and trends stay under the radar
+- **Regulatory jungle** - e-invoices, VAT, labor law keep changing; legal advisors are expensive
+- **Missed opportunities** - billions of dinars in grants and subsidies go unnoticed
 
 ~120,000 SMEs in Serbia: too complex for Excel, too small for SAP.  
 **No one is serving them directly.**
@@ -84,9 +84,9 @@ Alternative cost: consultant ~€3,200/yr · lawyer ~€800/yr · missed grant ~
 
 ## Materials
 
-- 📊 [`presentation/FinStat_AI_pitch.pptx`](presentation/FinStat_AI_pitch_git_vs.pptx) — pitch deck
-- 🎥 [`demo/FinStat_video.mp4`](demo/FinStat_video.mp4) — system demo
-- 🖼️ [`assets/`](assets/) — photos from the pitch defense
+- 📊 [`presentation/FinStat_AI_pitch.pptx`](presentation/FinStat_AI_pitch_git_vs.pptx) - pitch deck
+- 🎥 [`demo/FinStat_video.mp4`](demo/FinStat_video.mp4) - system demo
+- 🖼️ [`assets/`](assets/) - photos from the pitch defense
 
 ---
 
